@@ -21,7 +21,7 @@ Go to your website and submit the form once. This will send you an email asking 
 
 ## 3. All set, receive emails
 
-From now on, when someone submits that form, we'll forward you the data as email.
+From now on, when someone submits that form, it will forward you the data as email.
 
 
 ### [LEARN MORE](https://github.com/formspree/formspree)
